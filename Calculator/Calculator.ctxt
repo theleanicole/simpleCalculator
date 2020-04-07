@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\r\n\ A\ simplified\ calculator.\ \r\n\ The\ only\ operations\ are\ addition\ and\ subtraction.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Calculator()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ assumingCorrectNumberFormats(java.awt.event.ActionEvent)
+comment5.params=stringObject
+comment5.target=double\ stringToDouble(java.lang.String)
+numComments=6
